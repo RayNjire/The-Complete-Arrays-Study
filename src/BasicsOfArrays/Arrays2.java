@@ -26,7 +26,11 @@ public class Arrays2
             Digit [(int) i] = S.nextDouble();
             
         }
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> 3cd47d87649caf5b818368f394996175927632d3
         for (j=0; j<10; j++)
         {
             if (Digit[(int) j] >= 0)
